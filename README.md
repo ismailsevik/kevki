@@ -1,4 +1,12 @@
 # Kevki - Feedbin Tasarımında RSS Okuyucu
+<!--
+Source - https://stackoverflow.com/q/41604263
+Posted by zjffdu, modified by community. See post 'Timeline' for change history
+Retrieved 2026-10-19, License - CC BY-SA 4.0
+-->
+
+![image](https://raw.githubusercontent.com/ismailsevik/kevki-reader/refs/heads/main/kevki-logo.png)
+
 
 **Kevki**, popüler ve zarif RSS okuma servisi **Feedbin**'in minimalist, temiz ve odaklanmış tasarım estetiğini modern Android platformuna getiren bağımsız bir RSS okuma uygulamasıdır.
 
