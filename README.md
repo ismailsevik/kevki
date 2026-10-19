@@ -1,4 +1,4 @@
-# Kevki - Yöreswl RSS Okuyucu
+# Kevki - Yöresel RSS Okuyucu
 <!--
 Source - https://stackoverflow.com/q/41604263
 Posted by zjffdu, modified by community. See post 'Timeline' for change history
