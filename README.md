@@ -1,4 +1,4 @@
-# Kevki - Feedbin Tasarımında RSS Okuyucu
+# Kevki - Yöreswl RSS Okuyucu
 <!--
 Source - https://stackoverflow.com/q/41604263
 Posted by zjffdu, modified by community. See post 'Timeline' for change history
@@ -17,7 +17,7 @@ Uygulama derlenmiş ve imzalanmış Android APK dosyası olarak kullanıma hazı
 
 ## ✨ Özellikler
 
-### 🎨 Feedbin Tasarımı & Arayüz
+### 🎨 Arayüz
 - **3 Sütunlu / Panelli Mimari**:
   - **Yan Menü (Abonelikler)**: Okunmamış, Yıldızlı ve Tüm Yazılar sayaçları, klasörlenmiş/kategorize edilmiş akışlar, faviconlar.
   - **Makale Listesi**: Feedbin tarzı mavi okunmadı noktası, temiz başlık ve 2 satırlı özet önizlemesi, göreceli zaman ("15d önce", "2s önce"), küçük görsel önizlemeleri.
